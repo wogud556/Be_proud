@@ -1,4 +1,5 @@
 com/jjae/bank/proudapp/biz/creditsavingbusiness/exception/SavingsException.class
+com/jjae/bank/proudapp/config/SecurityConfig.class
 com/jjae/bank/proudapp/ProudappApplication.class
 com/jjae/bank/proudapp/biz/creditsavingbusiness/controller/SavingsController.class
 com/jjae/bank/proudapp/biz/creditsavingbusiness/controller/DepositController.class
